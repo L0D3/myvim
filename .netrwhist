@@ -1,0 +1,11 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =9
+let g:netrw_dirhist_1='/home/johannes/rails/spine/spine.contacts'
+let g:netrw_dirhist_2='/home/johannes/rails/spine/spine.contacts/app'
+let g:netrw_dirhist_3='/home/johannes/rails/spine/spine.contacts/app/controllers'
+let g:netrw_dirhist_4='/home/johannes/rails/spine/Spine-with-Jquery-Mobile/app/controllers'
+let g:netrw_dirhist_5='/home/johannes/rails/spine/CafeTownsend-Spine-Rails/vendor/assets/javascripts/spine'
+let g:netrw_dirhist_6='/home/johannes/rails/spine/CafeTownsend-Spine-Rails/vendor/assets/javascripts'
+let g:netrw_dirhist_7='/home/johannes/rails/spine/CafeTownsend-Spine-Rails/vendor/assets/javascripts/spine'
+let g:netrw_dirhist_8='/home/johannes/rails/spine/CafeTownsend-Spine-Rails/app/assets/javascripts/app'
+let g:netrw_dirhist_9='/home/johannes/rails/spine/CafeTownsend-Spine-Rails/app/assets/javascripts/app/controllers'
